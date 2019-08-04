@@ -8,7 +8,7 @@
  - [x] inverse kinematics rotation *
  - [ ] better docs
 
-*rotations are relative to the starting pose of the chain at 0,0,0,0,0,0
+*rotations are relative to the starting pose of the chain
 
 ## How to use
 setup
